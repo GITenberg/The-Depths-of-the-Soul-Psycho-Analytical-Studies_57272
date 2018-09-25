@@ -5,12 +5,17 @@ contributor:
     agent_name: Tannenbaum, S. A.
     gutenberg_agent_id: '49286'
     url: http://www.gutenberg.org/2009/agents/49286
+covers:
+- cover_type: archival
+  image_path: 57272-h/images/cover.jpg
 creator:
   author:
     agent_name: Stekel, William
     gutenberg_agent_id: '49285'
     url: http://www.gutenberg.org/2009/agents/49285
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57272#The-Depths-of-the-Soul-Psycho-Analytical-Studies
 gutenberg_issued: '2018-06-04'
 gutenberg_type: Text
 identifiers:
